@@ -25,7 +25,7 @@ function Examples() {
                 color="default"
                 to="/landing-page"
                 outline
-                tag={Link}
+                
               >
                 View Landing Page
               </Button>
@@ -43,7 +43,7 @@ function Examples() {
                 color="default"
                 to="/profile-page"
                 outline
-                tag={Link}
+               
               >
                 View Profile Page
               </Button>

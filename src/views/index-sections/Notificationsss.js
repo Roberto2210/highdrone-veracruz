@@ -14,18 +14,16 @@ function Notifications() {
     <>
       <div className="section section-notifications">
         
-       
-        <Alert color="warning" isOpen={alert3}>
+        <Alert color="info" isOpen={alert2}>
           <Container>
             <div className="alert-icon">
-              <i className="now-ui-icons ui-1_bell-53"></i>
+              <i className="now-ui-icons travel_info"></i>
             </div>
-            <strong>Warning!</strong> Better check yourself, you're not looking
-            too good.
+            <strong>TE GUSTARIA SER PARTE DE NOSOTROS!</strong> Fanatico de los drones!, se parte de nuestra comunidad dronera
             <button
               type="button"
               className="close"
-              onClick={() => setAlert3(false)}
+              onClick={() => setAlert2(false)}
             >
               <span aria-hidden="true">
                 <i className="now-ui-icons ui-1_simple-remove"></i>
@@ -33,6 +31,9 @@ function Notifications() {
             </button>
           </Container>
         </Alert>
+       
+       
+         
       
       </div>
     </>

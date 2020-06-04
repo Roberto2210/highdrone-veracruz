@@ -19,7 +19,7 @@ function Typography() {
                 </div>
                 <div className="typography-line">
                   <h2>
-                    The Life of Now UI Kit
+                    Lo Que Queremos Realizar
                   </h2>
                 </div>
                 <div className="typography-line">
@@ -54,8 +54,9 @@ function Typography() {
              
                 <div className="typography-line">
                   <h2>
-                    Header with small subtitle <br></br>
-                    <small>Use "small" tag for the headers</small>
+                    El ¿Por Qué? <br></br>
+                    <small>Una empresa tecnológica cuyo objetivo es desarrollar y contribuir en las áreas de
+                       la industria 4.0  a través de la automatización de drones.</small>
                   </h2>
                 </div>
               </Col>
@@ -63,7 +64,7 @@ function Typography() {
           </div>
           <div className="space-50"></div>
           <div id="images">
-            <h4>Images</h4>
+            <h4>Integrantes</h4>
             <Row>
               <Col sm="2">
                 <p className="category">Contadora: Jaquelin Vargas</p>
@@ -89,12 +90,11 @@ function Typography() {
                   src={require("assets/img/luis.jpg")}
                 ></img>
               </Col>
-              <Col sm="2">
-                <p className="category">Circle Raised</p>
+              <Col sm="2"> <p className="category">CEO: Ing.Luis Lechuga</p>
                 <img
                   alt="..."
-                  className="rounded-circle img-raised"
-                  src={require("assets/img/julie.jpg")}
+                  className="rounded img-raised"
+                  src={require("assets/img/luis.jpg")}
                 ></img>
               </Col>
             </Row>

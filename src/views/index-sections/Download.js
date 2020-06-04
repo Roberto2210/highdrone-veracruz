@@ -16,35 +16,15 @@ function Download() {
         <Container>
           <Row className="justify-content-md-center">
             <Col className="text-center" lg="8" md="12">
-              <h3 className="title">Do you love this Bootstrap 4 UI Kit?</h3>
+              <h3 className="title">Do you love th</h3>
               <h5 className="description">
-                Cause if you do, it can be yours for FREE. Hit the button below
-                to navigate to Creative Tim or Invision where you can find the
-                kit in HTML or Sketch/PSD format. Start a new project or give an
-                old Bootstrap project a new look!
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est consectetur deleniti quibusdam, magni atque libero saepe veniam. Magni incidunt vero labore commodi iusto ea minima, sunt rem qui quaerat minus?
+              Dolor doloribus excepturi magnam maiores a fuga, accusamus quo sit ducimus mollitia ullam perferendis quasi aliquam ab? Quisquam, alias nobis, ullam asperiores fuga blanditiis est eveniet delectus fugiat, illo atque?
+              Pariatur quaerat eius nulla nobis. Quod ipsam cum soluta! Ea architecto eaqlaboriosam assumenda dicta amet fugiat, id sed, quod corporis magni autem cum consequatur harum sit ducimus dolorem.
               </h5>
             </Col>
             <Col className="text-center" lg="8" md="12">
-              <Button
-                className="btn-round mr-1"
-                color="info"
-                href="https://www.creative-tim.com/product/now-ui-kit-react?ref=nukr-index-page"
-                role="button"
-                size="lg"
-              >
-                Download React
-              </Button>
-              <Button
-                className="btn-round"
-                color="primary"
-                href="https://www.invisionapp.com/now?ref=creativetim"
-                outline
-                role="button"
-                size="lg"
-                target="_blank"
-              >
-                Download PSD/Sketch
-              </Button>
+             
             </Col>
           </Row>
           
@@ -71,7 +51,7 @@ function Download() {
               <Button
                 className="btn-neutral btn-icon btn-round"
                 color="facebook"
-                href="https://www.facebook.com/creativetim?ref=creativetim"
+                href="#"
                 id="tooltip735272548"
                 size="lg"
                 target="_blank"
@@ -84,7 +64,7 @@ function Download() {
               <Button
                 className="btn-neutral btn-icon btn-round"
                 color="linkedin"
-                href="https://www.linkedin.com/company-beta/9430489/?ref=creativetim"
+                href="#"
                 id="tooltip647117716"
                 size="lg"
                 target="_blank"
@@ -97,7 +77,7 @@ function Download() {
               <Button
                 className="btn-neutral btn-icon btn-round"
                 color="github"
-                href="https://github.com/creativetimofficial/now-ui-kit-react?ref=creativetim"
+                href="#"
                 id="tooltip331904895"
                 size="lg"
                 target="_blank"

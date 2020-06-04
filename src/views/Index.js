@@ -16,6 +16,8 @@ import Navbars from "./index-sections/Navbars.js";
 import Tabs from "./index-sections/Tabs.js";
 import Pagination from "./index-sections/Pagination.js";
 import Notifications from "./index-sections/Notifications.js";
+import Notificationss from "./index-sections/Notificationss.js";
+import Notificationsss from "./index-sections/Notificationsss.js";
 import Typography from "./index-sections/Typography.js";
 import Javascript from "./index-sections/Javascript.js";
 import Carousel from "./index-sections/Carousel.js";
@@ -47,7 +49,9 @@ function Index() {
       
         <NucleoIcons />
         <Carousel />
-        <Typography />  
+        <Notificationss/>
+        <Typography /> 
+        <Notificationsss/> 
           <Tabs />
           <Notifications />    
           <CompleteExamples />

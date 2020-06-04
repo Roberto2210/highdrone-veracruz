@@ -30,16 +30,7 @@ function NucleoIcons() {
               >
                 Escribenos
               </Button>
-              <Button
-                className="btn-round"
-                color="info"
-                href=""
-                outline
-                size="lg"
-                target="_blank"
-              >
-                View All Icons
-              </Button>
+              
             </Col>
             <Col lg="6" md="12">
               <div className="icons-container">

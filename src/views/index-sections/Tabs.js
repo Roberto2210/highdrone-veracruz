@@ -26,7 +26,7 @@ function Tabs() {
         <Container>
           <Row>
             <Col className="ml-auto mr-auto" md="10" xl="6">
-              <p className="category">Tabs with Icons on Card</p>
+              <p className="category"></p>
               <Card >
                 <CardHeader>
                   <Nav className="justify-content-center" role="tablist" tabs>
